@@ -6,7 +6,8 @@ public class Github1 {
 		System.out.println("prueba1");
 		sdad
 		aaaaaaaaaaaaaaaaaaa
-		int hola
+		int hola=7;
+		System.out.println(hola);
 	}
 
 }
