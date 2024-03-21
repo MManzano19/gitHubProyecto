@@ -6,7 +6,8 @@ public class Github1 {
 		System.out.println("prueba1");
 		sdad
 		aaaaaaaaaaaaaaaaaaa
-			int suma;
+			int suma=9;
+		System.ou.println(suma);
 	
 	}
 
