@@ -8,6 +8,9 @@ public class Github1 {
 		aaaaaaaaaaaaaaaaaaa
 		int hola=7;
 		System.out.println(hola);
+			int suma=9;
+		System.ou.println(suma);
+	
 	}
 
 }
